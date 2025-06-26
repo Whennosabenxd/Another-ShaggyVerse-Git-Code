@@ -7,6 +7,7 @@ import utilities.ScoringRank;
 import flixel.sound.FlxSound;
 import flixel.FlxG;
 import states.StoryMenuState;
+import states.CharterSelectorState;
 import game.FlxAtlasSprite;
 import flixel.FlxSprite;
 import flixel.effects.FlxFlicker;
