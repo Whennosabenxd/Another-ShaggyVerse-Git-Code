@@ -1,0 +1,71 @@
+{
+  "defaultFlipX": true,
+  "dancesLeftAndRight": false,
+  "imagePath": "bfPixel",
+  "barColor": [123, 214, 246],
+  "singDuration": 8.0,
+  "offsetsFlipWhenEnemy": true,
+  "offsetsFlipWhenPlayer": false,
+  "swapLeftAndRightSingPlayer": false,
+  "graphicSize": 6,
+  "antialiasing": false,
+  "deathCharacterName": "bf-pixel-dead",
+  "cameraOffset": [-100, -75],
+  "positionOffset": [183, 202],
+  "animations": [
+    {
+      "name": "idle",
+      "animation_name": "BF IDLE",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singLEFT",
+      "animation_name": "BF LEFT NOTE",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singDOWN",
+      "animation_name": "BF DOWN NOTE",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singUP",
+      "animation_name": "BF UP NOTE",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singRIGHT",
+      "animation_name": "BF RIGHT NOTE",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singLEFTmiss",
+      "animation_name": "BF LEFT MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singDOWNmiss",
+      "animation_name": "BF DOWN MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singUPmiss",
+      "animation_name": "BF UP MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singRIGHTmiss",
+      "animation_name": "BF RIGHT MISS",
+      "fps": 24,
+      "looped": false
+    }
+  ]
+}

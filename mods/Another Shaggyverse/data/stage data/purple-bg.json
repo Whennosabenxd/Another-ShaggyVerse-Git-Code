@@ -1,0 +1,48 @@
+{
+	"character_Positions": [
+		[
+			1280,
+			936
+		],
+		[
+			226,
+			939
+		],
+		[
+			750,
+			834
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": false,
+			"position": [
+				-1894,
+				-1069
+			],
+			"scroll_Factor": [
+				0.7,
+				0.7
+			],
+			"antialiased": true,
+			"scale": 2.7,
+			"file_Name": "cuevamoradafondo"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-2002,
+				-1250
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"alpha": 1,
+			"scale": 2.5,
+			"file_Name": "cuevamoradapiso"
+		}
+	],
+	"camera_Zoom": 0.35
+}

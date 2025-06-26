@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "shaggy_blue_shredder",
+    "spritesheetType": "SPARROW",
+    "barColor": [51, 134, 255],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "shaggy_shredder_idle",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "shaggy_shredder_left",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "shaggy_shredder_down",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "shaggy_shredder_up0",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "shaggy_shredder_right",
+            "fps": 30,
+            "looped": false
+        }
+    ]
+}

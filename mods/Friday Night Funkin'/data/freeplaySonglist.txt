@@ -1,0 +1,26 @@
+Tutorial:gf:0:Easy,Normal,Hard:#B72863:messi:story
+Bopeebo:dad:1:Easy,Normal,Hard,Erect,Nightmare:#C96ED4:messi:story
+Fresh:dad:1:Easy,Normal,Hard,Erect,Nightmare:#C96ED4:messi:story
+Dad Battle:dad:1:Easy,Normal,Hard,Erect,Nightmare:#C96ED4:messi:story
+Spookeez:spooky:2:Easy,Normal,Hard,Erect,Nightmare:#DD8B13:fef:story
+South:spooky:2:Easy,Normal,Hard,Erect,Nightmare:#DD8B13:fef:story
+Monster:monster:2:Easy,Normal,Hard:#F5FF6B:fef:story
+Pico:pico:3:Easy,Normal,Hard,Erect,Nightmare:#CAE46C:fef:story
+Philly Nice:pico:3:Easy,Normal,Hard,Erect,Nightmare:#CAE46C:fef:extra
+Blammed:pico:3:Easy,Normal,Hard,Erect,Nightmare:#CAE46C:dafef:extra
+Satin Panties:mom:4:Easy,Normal,Hard,Erect,Nightmare:#E46AA1:dafef:extra
+High:mom:4:Easy,Normal,Hard,Erect,Nightmare:#E46AA1:dafef:extra
+M.I.L.F:mom:4:Easy,Normal,Hard:#E46AA1:dafef:extra
+Cocoa:parents-christmas:5:Easy,Normal,Hard:#E46AA1:dafef:extra
+Eggnog:parents-christmas:5:Easy,Normal,Hard:#E46AA1:dafef:extra
+Winter Horrorland:monster:5:Easy,Normal,Hard:#F5FF6B:dafef:extra
+Senpai:senpai:6:Easy,Normal,Hard,Erect,Nightmare:#FFAA6F:dafef:extra
+Roses:senpai-angry:6:Easy,Normal,Hard,Erect,Nightmare:#FFAA6F:huevo:extra
+Thorns:spirit:6:Easy,Normal,Hard,Erect,Nightmare:#FF3C6E:huevo:extra
+Ugh:tankman:7:Easy,Normal,Hard,Erect,Nightmare:#F6B604:meveo:extra
+Guns:tankman:7:Easy,Normal,Hard:#F6B604:meveo:bonus
+Stress:tankman:7:Easy,Normal,Hard:#F6B604:chaptershaggy1:bonus
+Darnell:darnell:END1:Easy,Normal,Hard:#735EB0:chaptershaggy2:bonus
+Lit Up:darnell:END1:Easy,Normal,Hard:#735EB0:chaptershaggy3:bonus
+2Hot:darnell:END1:Easy,Normal,Hard:#735EB0:chaptershaggy4:bonus
+Blazin:darnell:END1:Easy,Normal,Hard:#735EB0:chaptershaggy5:bonus

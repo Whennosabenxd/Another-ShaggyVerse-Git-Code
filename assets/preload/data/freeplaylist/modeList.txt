@@ -1,0 +1,3 @@
+Story Mode:story:#55f06a
+Bonus Songs:bonus:#eae305
+Extra Songs:extra:#e59813

@@ -1,0 +1,80 @@
+{
+	"character_Positions": [
+		[
+			1278,
+			818
+		],
+		[
+			300,
+			800
+		],
+		[
+			738,
+			634
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": false,
+			"position": [
+				-1141,
+				-486
+			],
+			"scroll_Factor": [
+				0.549999999999999,
+				0.549999999999999
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "sky"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-680,
+				-159
+			],
+			"scroll_Factor": [
+				0.7,
+				0.7
+			],
+			"antialiased": true,
+			"scale": 0.8,
+			"file_Name": "backmount"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1204,
+				419
+			],
+			"scroll_Factor": [
+				0.8,
+				0.8
+			],
+			"antialiased": true,
+			"scale": 1.3,
+			"file_Name": "ground"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-958,
+				-118
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1.3,
+			"file_Name": "ring"
+		}
+	],
+	"character_Scrolls": [
+		1,
+		1,
+		1
+	],
+	"camera_Zoom": 0.64
+}

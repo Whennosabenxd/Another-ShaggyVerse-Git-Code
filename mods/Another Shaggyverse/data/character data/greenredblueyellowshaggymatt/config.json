@@ -1,0 +1,38 @@
+{
+    "cameraOffset": [-150, -200],
+    "barColor": [209, 26, 26],
+    "characters": [
+        {
+            "name": "shaggy",
+            "positionOffset": [-400,0]
+        },
+        {
+            "name": "matt",
+            "positionOffset": [-600,100]
+        },
+        {
+            "name": "rshaggy",
+            "positionOffset": [-800,200]
+        },
+        {
+            "name": "bmatt",
+            "positionOffset": [-1000,300]
+        },
+        {
+            "name": "blueshaggy",
+            "positionOffset": [200,0]
+        }, 
+        {
+            "name": "redmatt",
+            "positionOffset": [60,100]
+        }, 
+        {
+            "name": "yellowshaggy",
+            "positionOffset": [-200,200]
+        },
+        {
+            "name": "purplematt",
+            "positionOffset": [-400,300]
+        }
+    ]
+}

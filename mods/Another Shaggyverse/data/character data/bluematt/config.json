@@ -1,0 +1,64 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "bluematt",
+    "spritesheetType": "SPARROW",
+    "barColor": [255, 140, 0],
+    "deathCharacterName": "bmatt-dead",
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "blueidle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "blueleft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "bluedown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "blueup",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "blueright",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFTmiss",
+            "animation_name": "blueleft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWNmiss",
+            "animation_name": "bluedown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUPmiss",
+            "animation_name": "blueup",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHTmiss",
+            "animation_name": "blueright",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": true,
+    "imagePath": "Blue Shaggy",
+    "spritesheetType": "SPARROW",
+    "graphicSize": 1.4,
+    "barColor": [51, 134, 255],
+    "animations": [
+        {
+            "name": "danceLeft",
+            "animation_name": "shaggy_idle0",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "danceRight",
+            "animation_name": "shaggy_idle2",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "shaggy_left",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "shaggy_down",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "shaggy_up",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "shaggy_right",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "guitarronsia",
+            "animation_name": "shaggy_sacaguitarra00",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "powerup",
+            "animation_name": "shaggy_powerup",
+            "fps": 30,
+            "looped": false
+        }
+    ]
+}

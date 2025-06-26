@@ -1,0 +1,75 @@
+{
+	"objects": [
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-699,
+				-474
+			],
+			"file_Name": "arena-bg",
+			"scale": 1
+		},
+		{
+			"is_Animated": true,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-689,
+				-112
+			],
+			"file_Name": "arena-characters",
+			"scale": 1,
+			"start_Animation": "idle",
+			"animations": [
+				{
+					"animation_name": "bg-characters0",
+					"name": "idle",
+					"fps": 24
+				}
+			]
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-700,
+				40
+			],
+			"file_Name": "railing",
+			"scale": 1
+		}
+	],
+	"character_Positions": [
+		[
+			992,
+			603
+		],
+		[
+			181,
+			569
+		],
+		[
+			606,
+			408
+		]
+	],
+	"character_Scrolls": [
+		1,
+		1,
+		1
+	],
+	"camera_Zoom": 0.67,
+	"scriptName": "mattbg animated"
+}

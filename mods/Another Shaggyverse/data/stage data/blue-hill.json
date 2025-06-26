@@ -1,0 +1,75 @@
+{
+	"objects": [
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.15,
+				0.15
+			],
+			"position": [
+				-1120,
+				-937
+			],
+			"file_Name": "cieloazul",
+			"scale": 1.9
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.4,
+				0.4
+			],
+			"position": [
+				-1375,
+				-535
+			],
+			"file_Name": "cosasdelfondo",
+			"scale": 1.95
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.6,
+				0.6
+			],
+			"position": [
+				-558,
+				-545
+			],
+			"file_Name": "bluemont",
+			"scale": 1.6
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-1508,
+				-799
+			],
+			"file_Name": "bluepiso",
+			"scale": 2.05
+		}
+	],
+	"character_Positions": [
+		[
+			1280,
+			936
+		],
+		[
+			226,
+			939
+		],
+		[
+			750,
+			834
+		]
+	],
+	"camera_Zoom": 0.45
+}

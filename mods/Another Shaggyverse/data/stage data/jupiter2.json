@@ -1,0 +1,29 @@
+{
+	"scriptName": "jupiter2",
+	"objects": [
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [0.2, 0.2, 0.2],
+			"position": [-985,-553],
+			"file_Name": "bg",
+			"scale": 2,
+			"alpha": 1
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [1,1,1],
+			"position": [-505,-253],
+			"file_Name": "stage",
+			"scale": 2,
+			"alpha": 1
+		}
+	],
+	"character_Positions": [
+		[2174,1481],
+		[909,1441],
+		[1514,1231]
+	],
+	"camera_Zoom": 0.5
+}

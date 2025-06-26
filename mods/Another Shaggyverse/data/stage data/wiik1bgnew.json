@@ -1,0 +1,103 @@
+{
+	"character_Scrolls": [
+		1,
+		1,
+		1
+	],
+	"character_Positions": [
+		[
+			1196,
+			944
+		],
+		[
+			21,
+			944
+		],
+		[
+			607,
+			758
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": false,
+			"position": [
+				-1474,
+				-1083
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1.6,
+			"file_Name": "skyBG"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1476,
+				-929
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1.6,
+			"file_Name": "standsBG"
+		},
+		{
+			"is_Animated": true,
+			"position": [
+				-2594,
+				811
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "crowd",
+			"animations": [
+				{
+					"animation_name": "crowd",
+					"fps": 24,
+					"name": "idle"
+				}
+			],
+			"start_Animation": "idle"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1474,
+				-926
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1.6,
+			"file_Name": "railingBG"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1471,
+				-924
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1.6,
+			"file_Name": "groundBG"
+		}
+	],
+	"camera_Zoom": 0.57,
+	"scriptName": "mattbg animated"
+}
