@@ -253,12 +253,6 @@ class MainMenuState extends MusicBeatState {
 					}
 				});
 			}
-			
-			if (controls.BACK) {
-				FlxG.sound.play(Paths.sound('cancelMenu'));
-				FlxG.switchState(new TitleState());
-			}
-
 		}
 
 		call("update", [elapsed]);
